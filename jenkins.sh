@@ -1,4 +1,4 @@
-#STEP-1: Installing Git and Maven and
+#STEP-1: Installing Git and Maven and maven
 yum install git maven -y
 
 #STEP-2: Repo Information (jenkins.io --> download -- > redhat)
